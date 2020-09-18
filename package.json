@@ -1,0 +1,16 @@
+{
+  "name": "reagent-simple-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "shadow-cljs": "^2.11.4"
+  },
+  "scripts": {
+    "dev": "npx shadow-cljs watch app"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
